@@ -1,7 +1,7 @@
 {
   "name": "fox",
   "description": "fox",
-  "start_url": "Wreckerwalk.fbx",
+  "start_url": "foxmech.glb",
   "components": [
     {
       "key": "look",

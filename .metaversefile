@@ -1,7 +1,7 @@
 {
   "name": "fox",
   "description": "fox",
-  "start_url": "fox.glb",
+  "start_url": "foxride.glb",
   "components": [
     {
       "key": "look",

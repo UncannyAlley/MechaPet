@@ -1,7 +1,7 @@
 {
   "name": "fox",
   "description": "fox",
-  "start_url": "crawler.glb",
+  "start_url": "crawler2.glb",
   "components": [
     {
       "key": "look",

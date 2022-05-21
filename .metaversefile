@@ -1,7 +1,7 @@
 {
   "name": "fox",
   "description": "fox",
-  "start_url": "UncannyPet_Box_2.glb",
+  "start_url": "UncannyPet_Box_3.glb",
   "components": [
     {
       "key": "look",

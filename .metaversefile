@@ -1,7 +1,7 @@
 {
   "name": "fox",
   "description": "fox",
-  "start_url": "UncannyPet_Box.glb",
+  "start_url": "UncannyPet_Box_2.glb",
   "components": [
     {
       "key": "look",
@@ -12,7 +12,7 @@
     {
       "key": "pet",
       "value": {
-        "idleAnimation": "Box",
+        "idleAnimation": "BoxIdle",
         "walkAnimation": "Box",
         "runAnimation": ""
       }

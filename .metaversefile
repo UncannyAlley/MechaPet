@@ -1,7 +1,7 @@
 {
   "name": "fox",
   "description": "fox",
-  "start_url": "Walker.glb",
+  "start_url": "Droidwalk.glb",
   "components": [
     {
       "key": "look",
@@ -13,7 +13,7 @@
       "key": "pet",
       "value": {
         "idleAnimation": "",
-        "walkAnimation": "Walk",
+        "walkAnimation": "mixamo.com",
         "runAnimation": ""
       }
     }

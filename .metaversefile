@@ -12,8 +12,8 @@
     {
       "key": "pet",
       "value": {
-        "idleAnimation": "Armature_Armature_mixamo.com_Layer0",
-        "walkAnimation": "Armature_Armature_mixamo.com_Layer0",
+        "idleAnimation": "Box",
+        "walkAnimation": "Box",
         "runAnimation": ""
       }
     }

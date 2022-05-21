@@ -1,7 +1,7 @@
 {
   "name": "fox",
   "description": "fox",
-  "start_url": "crawler2.glb",
+  "start_url": "UncannyPet_Box.glb",
   "components": [
     {
       "key": "look",
@@ -12,8 +12,8 @@
     {
       "key": "pet",
       "value": {
-        "idleAnimation": "Crawler",
-        "walkAnimation": "Crawler",
+        "idleAnimation": "Armature_Armature_mixamo.com_Layer0",
+        "walkAnimation": "Armature_Armature_mixamo.com_Layer0",
         "runAnimation": ""
       }
     }

@@ -1,7 +1,7 @@
 {
   "name": "fox",
   "description": "fox",
-  "start_url": "Droidwalk.glb",
+  "start_url": "Droidwalkrotate.glb",
   "components": [
     {
       "key": "look",
